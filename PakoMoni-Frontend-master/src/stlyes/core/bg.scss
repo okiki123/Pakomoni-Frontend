@@ -1,0 +1,21 @@
+.bg {
+    &-blue {
+        background-color: $primary-blue $im;
+    }
+
+    &-light-blue {
+        background-color: $light-blue $im;
+    }
+
+    &-dark-blue {
+        background-color: $dark-blue $im;
+    }
+
+    &-orange {
+        background-color: $primary-orange $im;
+    }
+
+    &-grey {
+        background-color: $grey-border;
+    }
+}

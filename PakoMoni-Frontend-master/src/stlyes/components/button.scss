@@ -1,0 +1,74 @@
+.Btn {
+
+  &:hover, &:focus, &:active {
+    outline: none $im;
+    box-shadow: none $im;
+    opacity: 0.9;
+  }
+
+  &-blue {
+    background-color: $primary-blue $im;
+  }
+
+  &-light-blue {
+    background-color: $light-blue $im;
+    color: $dark-color;
+  }
+
+  &-darker-blue {
+    background-color: #b0dbfa $im;
+    color: $dark-color;
+  }
+
+  &-dark-blue {
+    background-color: $dark-blue $im;
+    color: $white;
+  }
+
+  &-orange {
+    background-color: $primary-orange $im;
+    color: $dark-color;
+  }
+
+  &-outline {
+
+    &-blue {
+      color: $primary-blue $im;
+      border: solid 1px $primary-blue $im;
+      background-color: $transparent $im;
+    }
+
+    &-light-blue {
+      color: $light-blue $im;
+      border: solid 1px $light-blue $im;
+      background-color: $transparent $im;
+    }
+
+    &-darker-blue {
+      color: #b0dbfa $im;
+      border: solid 1px #b0dbfa $im;
+      background-color: $transparent $im;
+    }
+
+    &-dark-blue {
+      color: $dark-blue $im;
+      border: solid 1px $dark-blue $im;
+      background-color: $transparent $im;
+    }
+
+    &-orange {
+      color: $primary-orange $im;
+      border: solid 1px $primary-orange $im;
+      background-color: $transparent $im;
+    }
+  }
+
+  &-standard {
+    padding-left: 30px $im;
+    padding-right: 30px $im;
+  }
+
+  &-h50 {
+    height: 50px;
+  }
+}

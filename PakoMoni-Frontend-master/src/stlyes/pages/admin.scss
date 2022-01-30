@@ -1,0 +1,20 @@
+.InfoCard {
+  width: 250px;
+  border-radius: 8px;
+
+  @include media-breakpoint-down(xs) {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &__body {
+    font-size: 3.5rem;
+    line-height: 1;
+  }
+}
+
+.progress-log {
+  max-height: 380px;
+  overflow-y: auto;
+}

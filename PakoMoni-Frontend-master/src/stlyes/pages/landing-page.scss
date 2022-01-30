@@ -1,0 +1,146 @@
+.Banner, .Aim, .Setup, .Try {
+  margin-top: 4.5rem;
+
+  &__texts {
+    @include media-breakpoint-up(lg) {
+      width: 80%;
+    }
+  }
+
+  &__big-text {
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 1.0;
+
+    @include media-breakpoint-down(sm) {
+      font-size: 1.85rem;
+    }
+  }
+
+  &__image {
+    width: 90%;
+
+    @include media-breakpoint-up(lg) {
+      width: 450px;
+    }
+
+    @include media-breakpoint-between(md, lg) {
+      width: 80%
+    }
+  }
+}
+
+.WhatYouGet {
+  margin-top: 4.5rem;
+  padding: 3rem;
+
+  .section {
+    @include media-breakpoint-between(md, lg) {
+      width: 33.33%;
+    }
+  }
+
+  &__header {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  &__icon {
+    background-color: $white;
+    border-radius: 50%;
+    padding: 10px;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      width: 40px;
+    }
+  }
+
+  &__arrow {
+    margin-left: 10px;
+
+    @include media-breakpoint-up(xl) {
+      width: 400px;
+    }
+
+    @include media-breakpoint-between(lg, xl) {
+      //width: 400px;
+    }
+
+    .border {
+      border-bottom: dashed 1px $primary-blue $im;
+    }
+  }
+
+  &__number {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $primary-blue;
+    width: 25px;
+    height: 25px;
+    font-size: $xs-size;
+    color: $white;
+  }
+
+  &__text {
+    font-size: $lg-size;
+    width: 220px;
+  }
+}
+
+.Setup, .Try {
+  padding: 5rem 3rem;
+
+  @include media-breakpoint-down(sm) {
+    padding: 5rem 1.5rem;
+  }
+
+  &__pointer {
+    .circle {
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      border: dashed 1px $primary-blue;
+
+      &-last {
+        margin-bottom: 6.5rem;
+
+        @include media-breakpoint-up(xl) {
+          margin-bottom: 7.5rem $im;
+        }
+
+        @include media-breakpoint-only(lg) {
+          margin-bottom: 9.5rem;
+        }
+
+        @include media-breakpoint-between(sm, md) {
+          margin-bottom: 6rem;
+        }
+      }
+    }
+
+    .line {
+      border-left: dashed 1px $primary-blue;
+    }
+  }
+}
+
+.Featured {
+  margin-top: 4.5rem;
+
+  &__big-text {
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+  }
+
+  &__image {
+    width: 200px;
+    margin-bottom: 2rem;
+  }
+}

@@ -1,0 +1,29 @@
+.Sidebar {
+  width: 300px;
+  background-color: $dark-blue;
+  color: $white;
+  padding: 2.5rem;
+  overflow-y: auto;
+  transition: all 0.3s;
+
+  @include media-breakpoint-down(md) {
+    width: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  &__link {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.Sidebar.expanded {
+  @include media-breakpoint-down(md) {
+    width: 100%;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    transition: all 0.3s;
+  }
+}

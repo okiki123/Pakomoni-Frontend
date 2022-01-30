@@ -1,0 +1,29 @@
+.border {
+  &-main {
+    border: solid 1px $grey-border;
+
+    &-left {
+      border-left: solid 1px $grey-border;
+    }
+
+    &-right {
+      border-right: solid 1px $grey-border;
+    }
+
+    &-top {
+      border-top: solid 1px $grey-border;
+    }
+
+    &-bottom {
+      border-bottom: solid 1px $grey-border;
+    }
+  }
+
+  &-orange {
+    border: solid 2px $primary-orange;
+  }
+
+  &-none {
+    border: none $im;
+  }
+}

@@ -1,0 +1,25 @@
+.ActionCard {
+  width: 95%;
+
+  @include media-breakpoint-between(sm, md){
+    width: 80%;
+  }
+
+  @include media-breakpoint-up(lg){
+    width: 270px;
+  }
+
+  &__icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: $light-blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      width: 45px;
+    }
+  }
+}

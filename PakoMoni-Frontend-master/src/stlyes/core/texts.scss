@@ -1,0 +1,21 @@
+.text {
+  &-blue {
+    color: $primary-blue $im;
+  }
+
+  &-light-blue {
+    color: $light-blue $im;
+  }
+
+  &-dark-blue {
+    color: $dark-blue $im;
+  }
+
+  &-orange {
+    color: $primary-orange $im;
+  }
+  
+  &-dark-color {
+    color: $dark-color
+  }
+}

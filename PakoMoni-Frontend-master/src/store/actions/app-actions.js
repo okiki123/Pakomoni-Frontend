@@ -1,0 +1,7 @@
+const APP = {
+    SHOW_LOADER: 'SHOW_LOADER',
+    HIDE_LOADER: 'HIDE_LOADER',
+    UPDATE_AUTH: 'UPDATE_AUTH'
+}
+
+export default APP;

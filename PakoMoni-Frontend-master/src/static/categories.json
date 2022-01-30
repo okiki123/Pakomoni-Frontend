@@ -1,0 +1,388 @@
+[
+  {
+    "categories": "Accomodation and Food Services Activities",
+    "sub_categories": [
+      "Accommodation",
+      "Bakery services",
+      "Brewery services",
+      "Deal in Hot drinks",
+      "Deal in soft drinks",
+      "Deal in wines, drinks and beverages",
+      "Food and beverages services activities",
+      "Fruits/fruit juice production and sales",
+      "Hotel and hospitality\r",
+      "Hotel reservation services",
+      "Operate confectionary shop",
+      "Operate fast food outlet",
+      "Operate restaurant and catering services",
+      "Operate viewing center"
+    ]
+  },
+  {
+    "categories": "Activities of extraterritorial Organization and Bodies",
+    "sub_categories": [
+      "Activities of extraterritorial organizations and bodies"
+    ]
+  },
+  {
+    "categories": "Activities of House as Employment Undifferentiated Goods and Services - Producing Activities of HouseholDs for Own Use",
+    "sub_categories": [
+      "Activities of households as employers of domestic personnel",
+      "Undifferentiated goods-and services âproducing activities of private households"
+    ]
+  },
+  {
+    "categories": "Administrative and Support Services Acitivities",
+    "sub_categories": [
+      "Employment activities",
+      "Errand and home delivery services",
+      "Farming",
+      "Fashion Designing/tailoring services",
+      "Fire and safety services",
+      "Frozen foods services",
+      "General contract",
+      "General merchandise",
+      "Gold Smiting services",
+      "Hat making services",
+      "Industrial chemical services",
+      "Industrial and safety equipment services",
+      "Industrial safety services",
+      "Interior/exterior decoration services",
+      "Internet services",
+      "Laundry services",
+      "Lubricant/oil services",
+      "Maintenance and repair of refrigerator and air condition",
+      "Manufacturerâs representation",
+      "Manufacturing services",
+      "Marketing services",
+      "Medical Laboratory services",
+      "Mortuary and funeral services",
+      "Office administrative, office support and other business support services",
+      "Plant and equipment management",
+      "Plastic manufacturing services",
+      "Pluming services",
+      "Printing press",
+      "Production and sales of footwear",
+      "Production/sales of ceramics and tiles",
+      "Public relation services",
+      "Rental and leasing activities",
+      "Rental services",
+      "Restaurant",
+      "Safety equipment services",
+      "Sale of petroleum products",
+      "Sales and supply of iron seals and metals",
+      "Sales of books and stationaries",
+      "Sawmilling services",
+      "Security and investigation activities",
+      "Service to building and landscape activities",
+      "Sales and supply of iron seals and metals",
+      "Supply of unskilled labor",
+      "Trading",
+      "Travel agency",
+      "Travel agency, tour operator and other reservation services and related activities",
+      "Upholstery and furniture making",
+      "Vulcanizing services",
+      "Welding services",
+      "Wheel balancing and alignment services"
+    ]
+  },
+  {
+    "categories": "Art, Entertainment and Recreation",
+    "sub_categories": [
+      "Art galleries, museums and monuments services\r",
+      "Artiste management and services\r",
+      "Arts, crafts and designing",
+      "Creative, art and entertainment activities",
+      "Entertainment services",
+      "Events management/planning",
+      "Gambling and betting activities",
+      "Installation of CCTV and Allied Products",
+      "Libraries, archives, museums and other cultural activities",
+      "Modeling services",
+      "Organize dance class services",
+      "Painting services",
+      "Parks and recreation services",
+      "Photography services",
+      "Sale of sport equipment",
+      "Sport promotion services",
+      "Sport activities and amusement and recreation activities",
+      "Stress management services",
+      "Video cd rental services"
+    ]
+  },
+  {
+    "categories": "Agriculture Forestry & Fishing",
+    "sub_categories": [
+      "Animal husbandry services",
+      "Aquarium services",
+      "Aviary services",
+      "Crop and animal production, Hunting and related services activities",
+      "Fish farming/aquaculture",
+      "Fishing and aquaculture\r",
+      "Food production and processing services",
+      "Forestry & logging",
+      "Gardening services",
+      "Honey processing",
+      "Horticulture services",
+      "Kennel services",
+      "Livestock feeds production and distribution\r",
+      "Livestock management services",
+      "Milling and grinding services",
+      "Piggery services",
+      "Poultry services",
+      "Sale of agricultural produce",
+      "Sale of agricultural tools, machine and allied products"
+    ]
+  },
+  {
+    "categories": "Community Based Association",
+    "sub_categories": [
+      "Community Based Association"
+    ]
+  },
+  {
+    "categories": "Cultural Based Association",
+    "sub_categories": [
+      "Cultural Based Association"
+    ]
+  },
+  {
+    "categories": "Construction",
+    "sub_categories": [
+      "Boat and canoe construction",
+      "Bricklaying. Masonry services",
+      "Building works",
+      "Carpentry/upholstery services",
+      "Civil engineering",
+      "Construction of buildings",
+      "Glass Works",
+      "Mechanical works",
+      "Metal works",
+      "Specialized construction activities",
+      "Steal works services",
+      "Supply, sale and distribution of building materials"
+    ]
+  },
+  {
+    "categories": "Education",
+    "sub_categories": [
+      "Curriculum Planning/development",
+      "Education",
+      "Educational services and consultancy",
+      "Feasibility studies",
+      "Guidance and counselling services",
+      "ICT Training and consultancy",
+      "Library services",
+      "Montessori supplies\r",
+      "Montessori training",
+      "Operate bible college\r",
+      "Operate computer training school",
+      "Operate crÃ¨che and day care",
+      "Operate Islamic school",
+      "Operate Nursery and primary school",
+      "Operate Primary and Secondary school",
+      "Organizing conferences\r",
+      "Organizing seminars/symposiums",
+      "Publication of law reports and journals",
+      "Teachers recruitment",
+      "Vocational education and training services"
+    ]
+  },
+  {
+    "categories": "Faith Based Association",
+    "sub_categories": [
+      "Church",
+      "Churches",
+      "IT Others",
+      "Mosque",
+      "Mosques"
+    ]
+  },
+  {
+    "categories": "Financial and Insurance Activities",
+    "sub_categories": [
+      "Accounting/auditing consultancy\r",
+      "Accounting/auditing, taxation and financial management consultancy",
+      "Activities auxiliary to financial services and insurance activities",
+      "Financial consultancy\r",
+      "Financial services activities, except insurance and pension funding",
+      "Forensic accounting services",
+      "Insurance, reinsurance and pension funding, except compulsory social security",
+      "Private equity fund"
+    ]
+  },
+  {
+    "categories": "Foundation Based Association",
+    "sub_categories": [
+      "Foundation Based Association"
+    ]
+  },
+  {
+    "categories": "Human Health and Social Work Acitivities",
+    "sub_categories": [
+      "Ambulance services",
+      "Beauty and salon services",
+      "Chemist /nursing home",
+      "Dental Practices and services",
+      "Fumigation and pest control services",
+      "Gymnasium services",
+      "Human health activities",
+      "Makeup and makeover services",
+      "Operate community health care center",
+      "Operate Hospital/clinic",
+      "Operate maternity clinic",
+      "Optical services",
+      "Patent/medicine services",
+      "Pedicure and manicure services\r",
+      "Perfumery services",
+      "Physiotherapy services",
+      "Public convenience services",
+      "Residential care activities",
+      "Spa treatment services",
+      "Sale of veterinary equipment and drugs",
+      "Sales and supply of Hospital optical and laboratory equipment",
+      "Social work activities without accommodation",
+      "Traditional medicine",
+      "Veterinary services"
+    ]
+  },
+  {
+    "categories": "Information and Communication",
+    "sub_categories": [
+      "Advertising and marketing services",
+      "Bulk sms services",
+      "Cinematography/ theaters services",
+      "Computer programming, consultancy and related activities",
+      "Graphic designing",
+      "Information service activities",
+      "Motion picture, video and television program production, sound recording and Music publishing activities",
+      "Networking services",
+      "Programming and broadcasting activities",
+      "Publishing activities",
+      "Software development, web design and intranet development",
+      "Supply of hardware",
+      "Telecommunications"
+    ]
+  },
+  {
+    "categories": "Manufacturing",
+    "sub_categories": [
+      "Aluminum manufacturing, works, sales and fittings",
+      "Electricity, gas, stream and air conditioning supply",
+      "Leather works/ Tannery services",
+      "Manufacture of basic metals\r",
+      "Manufacture of basic pharmaceutical products and pharmaceutical preparations\r",
+      "Manufacture of beverages\r",
+      "Manufacture of chemicals and chemical products\r",
+      "Manufacture of coke and refined petroleum products\r",
+      "Manufacture of computer, electronic and optical products\r",
+      "Manufacture of electrical equipment\r",
+      "Manufacture of fabricated metal products, except machinery and equipment\r",
+      "Manufacture of food products d\r",
+      "Manufacture of furniture\r",
+      "Manufacture of leather and equipment N.E,C",
+      "Manufacture of motor vehicles, trailers and semi-trailers"
+    ]
+  },
+  {
+    "categories": "Mining and Quarrying",
+    "sub_categories": [
+      "Extraction of crude petroleum and natural gas",
+      "Geosciences services",
+      "Mining support services activities",
+      "Mining and grinding services",
+      "Mining of coal and lignite\r",
+      "Mining of metal ores",
+      "Oil and gas services",
+      "Other mining and quarrying"
+    ]
+  },
+  {
+    "categories": "Other Activities of Extra-Territorial Organziation and Bodies",
+    "sub_categories": []
+  },
+  {
+    "categories": "Other Services Activities",
+    "sub_categories": [
+      "Activities of membership organizations",
+      "Advertisement",
+      "Apprenticeship  / training services",
+      "Automobile towing services\r",
+      "Automobile/mechanical services",
+      "Beauty pageants",
+      "Film production Services"
+    ]
+  },
+  {
+    "categories": "Power",
+    "sub_categories": [
+      "Energy production",
+      "Hydro electrical work",
+      "Production and distribution of renewable energy",
+      "Solar energy",
+      "Supply, sales and services of solar equipment and inverters"
+    ]
+  },
+  {
+    "categories": "Professional Scientific and Technical Acitivities",
+    "sub_categories": []
+  },
+  {
+    "categories": "Public Administration and Defence",
+    "sub_categories": [
+      "Public Administration and Defence"
+    ]
+  },
+  {
+    "categories": "Repairs of Motorcycles and MotorVehicles",
+    "sub_categories": []
+  },
+  {
+    "categories": "Real Estate Activities",
+    "sub_categories": [
+      "Environmental and landscaping services",
+      "Estate agency",
+      "Estate surveying and valuation",
+      "Estate and facility management",
+      "Project management services",
+      "Property development services\r",
+      "Property management services",
+      "Real estate services",
+      "Town planning services"
+    ]
+  },
+  {
+    "categories": "Social Clubs Based Association",
+    "sub_categories": [
+      "Social Clubs Based Association"
+    ]
+  },
+  {
+    "categories": "Sporting Based Association",
+    "sub_categories": [
+      "Sporting Based Association"
+    ]
+  },
+  {
+    "categories": "Transportation",
+    "sub_categories": [
+      "Air transport",
+      "Land Transport and Transport Via pipelines",
+      "Postal and courier activities",
+      "Rail and tram services",
+      "Road transportation services",
+      "Sea transport",
+      "Truck and haulage services",
+      "Warehousing and support activities for transportation",
+      "Water transport"
+    ]
+  },
+  {
+    "categories": "Water Supply, Sewage, Waste Management and Remediation Acitivities",
+    "sub_categories": []
+  },
+  {
+    "categories": "Wholesale and Retail Trade",
+    "sub_categories": []
+  }
+]

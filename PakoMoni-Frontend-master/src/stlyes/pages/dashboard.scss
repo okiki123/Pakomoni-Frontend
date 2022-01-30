@@ -1,0 +1,85 @@
+.Dashboard {
+  height: 100vh;
+  display: flex;
+
+  .Header {
+    position: sticky;
+    top: 0;
+    z-index: 300;
+  }
+
+  &__main {
+    overflow-y: auto;
+    width: 0;
+  }
+
+  .Home {
+    &__information {
+
+      @include media-breakpoint-between(sm, md){
+        padding-left: 2rem;
+        padding-right: 2rem;
+      }
+
+      @include media-breakpoint-up(lg){
+        padding-left: 3rem;
+        padding-right: 3rem;
+      }
+    }
+  }
+
+  .BusinessRegistration {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+
+    @include media-breakpoint-up(sm) {
+      padding-left: 3rem;
+      padding-right: 3rem;
+    }
+
+    .Payment {
+      &__card {
+        &:hover {
+          opacity: 0.9;
+        }
+      }
+    }
+  }
+
+  .BankAccount {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+
+    @include media-breakpoint-up(sm) {
+      padding-left: 3rem;
+      padding-right: 3rem;
+    }
+  }
+}
+
+.BankAccount, .Profile {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+
+  @include media-breakpoint-up(sm) {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+.Profile {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+
+  @include media-breakpoint-up(sm) {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  &__header {
+    &-icon {
+      font-size: 80px $im;
+      color: $dark-blue;
+    }
+  }
+}

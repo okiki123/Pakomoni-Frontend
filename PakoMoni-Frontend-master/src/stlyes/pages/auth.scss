@@ -1,0 +1,37 @@
+.Auth {
+    min-height: 100vh;
+    background-color: #013460;
+    color: #fff;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+    &__logo {
+        margin-bottom: 2.7rem;
+    }
+
+    &__card {
+        min-width: 400px;
+        max-width: 500px;
+        background-color: $white;
+        color: $dark-color;
+        border-radius: 5px;
+        padding: 2rem;
+
+        @include media-breakpoint-down(xs) {
+            width: 95%;
+            min-width: 95%;
+            max-width: 95%;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 1rem;
+        }
+
+        &-title {
+            color: $primary-blue;
+            margin-bottom: 2rem;
+            font-size: 1.5rem;
+            font-weight: 600;
+            text-align: center;
+        }
+    }
+}

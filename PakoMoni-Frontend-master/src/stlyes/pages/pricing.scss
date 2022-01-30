@@ -1,0 +1,61 @@
+.Pricing {
+  margin-top: 3rem;
+  margin-bottom: 4rem;
+
+  &__big-text {
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 1.0;
+
+    @include media-breakpoint-down(sm) {
+      font-size: 1.85rem;
+    }
+  }
+
+  .nav-pills {
+    background-color: $primary-blue;
+    border-radius: 40px;
+    padding: 0.3rem;
+    width: fit-content;
+  }
+
+  .nav-link {
+    color: $light-grey;
+    padding: 0.6rem 1rem;
+
+    &.active {
+      background-color: $light-grey;
+      color: $dark-blue;
+      border-radius: 36px;
+    }
+  }
+
+  &__card {
+    padding: 2rem 1rem;
+    border-radius: 7px;
+    width: 95%;
+
+    @include media-breakpoint-up(sm) {
+      width: 300px;
+    }
+
+    &.light {
+      color: $dark-color;
+      background-color: $light-blue;
+    }
+
+    &.dark {
+      color: $white;
+      background-color: $dark-blue;
+    }
+
+    &-title {
+      font-size: 1.3rem;
+    }
+
+    &-amount {
+      font-size: 1.7rem;
+      font-weight: 600;
+    }
+  }
+}

@@ -1,0 +1,73 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.form-control-sm {
+  border-radius: 4px $im;
+  //background-color: $light-blue;
+
+  &:focus {
+    box-shadow: 0 0 0 1px $light-grey $im;
+    border-color: $light-grey $im;
+    background-color: $light-blue $im;
+  }
+
+  option {
+    &:hover {
+      background-color: $light-blue $im;
+    }
+  }
+}
+
+.form-control, .MuiOutlinedInput-root {
+  border-radius: 4px $im;
+  //box-shadow: 0 0 0 1px $light-grey $im;
+  //border-color: $light-grey;
+  background-color: $white;
+  height: 50px;
+
+  &:focus {
+    box-shadow: 0 0 0 1px $light-grey $im;
+    border-color: $light-grey $im;
+    background-color: $light-blue $im;
+  }
+
+  option {
+    &:hover {
+      background-color: $light-blue $im;
+    }
+  }
+}
+
+.input-width-150 {
+  width: 150px
+}
+
+.custom-file {
+  &-label {
+    height: 50px;
+    border-radius: 4px $im;
+    background-color: $light-blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #6c757d;
+
+    &::after {
+      content: "\f093" $im;
+      font-family: "FontAwesome";
+      height: 50px;
+      color: $dark-blue;
+      background-color: $light-blue;
+      border-left: none;
+      border-bottom: solid 1px #ced4da;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 1px $light-grey $im;
+      border-color: $light-grey;
+      background-color: $light-blue;
+    }
+  }
+}
